@@ -1,0 +1,2 @@
+# Crime and census data relationship exploration in London
+Abstract— This study aims to explore the undelying characteristics both that explaine crime in London. The data utilised was mainly demographic data from Census 2011 and crime statistics. The data relations were examined both statistically and through geographically spatial correlations.
